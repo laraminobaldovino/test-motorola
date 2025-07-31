@@ -1,6 +1,8 @@
 DECLARE min_date DATE DEFAULT DATE("2024-09-14");
 DECLARE max_date DATE DEFAULT CURRENT_DATE();
 
+-- comment
+
 
 CREATE OR REPLACE TABLE `demobleett.ia_fravega_ac_logs.rag_times_IA` AS
 (
